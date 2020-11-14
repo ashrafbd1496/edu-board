@@ -1,0 +1,19 @@
+{
+    "name": "ashrafuddin1496/edu-board",
+    "description": "This is a learning purpose project for education board result system calculation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ashraf",
+            "email": "asraf1496@gmail.com"
+        }
+    ],
+
+    "autoload" : {
+        "psr-4" : {
+            "Edu\\Board\\" : "app\\" 
+        }
+    },
+    "require": {}
+}
